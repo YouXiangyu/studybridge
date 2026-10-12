@@ -2,23 +2,23 @@
   "files": [
     {
       "path": "README.md",
-      "size": 6583,
-      "sha256": "6338181b1ce522d922af31fa9d239fb1fae4463ce594807383315265500ea618"
+      "size": 8536,
+      "sha256": "6274362e1a4cbf80c350c852dbbbc72e585c3af1bb694765d3f300cc420f506f"
     },
     {
       "path": "docs/GETTING_STARTED.md",
-      "size": 9117,
-      "sha256": "3a6f79c364a08a532f4684cddefceef7bcff150a5705edbf516a2ce15551b591"
+      "size": 13518,
+      "sha256": "5642f01ababcedd40f3688bf25dcf54c05d2dbf7a324ed9ebf69a1579e752155"
     },
     {
       "path": "docs/RELEASE_VALIDATION.md",
-      "size": 4507,
-      "sha256": "36ce465fe6eccca39259e1cced3353f9dfb9e6eb73607890512675f685c2334e"
+      "size": 6304,
+      "sha256": "fb1af83cb8d072be0d88077f7f5469fdba40af29b48858d4f190d54cdb304283"
     },
     {
       "path": "CHANGELOG.md",
-      "size": 2346,
-      "sha256": "12f868af413bc752bc5326db01526aa779878e54368354f7a8f801b8438cff9a"
+      "size": 4755,
+      "sha256": "02db3958c8b7c7559c481a707c7c9d095742d06164c521b491be9c98eadd7501"
     },
     {
       "path": "LICENSE",
@@ -32,13 +32,13 @@
     },
     {
       "path": "THIRD-PARTY-NOTICES.md",
-      "size": 1226,
-      "sha256": "bd71443e9d7a85a9d0d855bd5b01d1d11fe120f6b8d7cd55509add3bef7d7451"
+      "size": 1887,
+      "sha256": "49129da1f46429826532eedab45d82938362eef7c7c837e8065f6965218d1eb3"
     },
     {
       "path": "SECURITY.md",
-      "size": 1570,
-      "sha256": "20561f36aeb9b80126c249be8baefce997673a8e31cdaf4901eda21a349719c9"
+      "size": 4009,
+      "sha256": "e6a71dbf4052c9de6e998ace11e4baea8f7abbe8b74bb1d8dbe25c50cbe9f04e"
     },
     {
       "path": "assets/studybridge-hero.png",
@@ -56,9 +56,14 @@
       "sha256": "7da8ed51958d0328e61ad87ed3dc99159788faaa1c105d4687578ec2f1a67b87"
     },
     {
+      "path": "assets/studybridge-icon.png",
+      "size": 1276907,
+      "sha256": "ab7b6e95486290f912299190079ca38d67a6d70d92e84ec4fce9e64f1796e2d5"
+    },
+    {
       "path": ".gitignore",
-      "size": 379,
-      "sha256": "09b4bac982f1cf44032f85d5e50dad43723c33a4bec451c749ee48e95446a400"
+      "size": 409,
+      "sha256": "c8dec1f292db5482e91195a6da384638d13f91580535bdfbe0a154ddfe784054"
     }
   ]
 }
