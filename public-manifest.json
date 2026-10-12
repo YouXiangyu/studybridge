@@ -2,13 +2,13 @@
   "files": [
     {
       "path": "README.md",
-      "size": 6581,
-      "sha256": "23a4b021ad95b11ec9c0dfcda2e14d71a19c76dd428ee881b4d0c8f3675eb957"
+      "size": 6583,
+      "sha256": "6338181b1ce522d922af31fa9d239fb1fae4463ce594807383315265500ea618"
     },
     {
       "path": "docs/GETTING_STARTED.md",
-      "size": 9111,
-      "sha256": "d4bdc05ed4717cf3b3734ec8b0ca55faf98bfa7256cf8971df38deefca674a02"
+      "size": 9117,
+      "sha256": "3a6f79c364a08a532f4684cddefceef7bcff150a5705edbf516a2ce15551b591"
     },
     {
       "path": "docs/RELEASE_VALIDATION.md",

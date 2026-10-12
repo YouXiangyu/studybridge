@@ -42,7 +42,7 @@ Read source and translated PDFs, keep notes with sandboxed HTML demos, and ask C
 ## 几分钟开始使用
 
 1. 安装 **[Node.js 22 或更新版本](https://nodejs.org/en/download)**，在新终端运行 `node --version` 确认安装成功。
-2. 从 **[最新版本](https://github.com/YouXiangyu/studybridge/releases/latest)** 下载 `笔记桥.exe`，放到长期保存的位置并双击。首次运行选择或新建工作区，浏览器会打开资料库。
+2. 从 **[最新版本](https://github.com/YouXiangyu/studybridge/releases/latest)** 下载 `StudyBridge.exe`，放到长期保存的位置并双击。首次运行选择或新建工作区，浏览器会打开资料库。
 3. 点击“添加课件”，导入英文 PDF 和可选的中文 PDF。PPT/PPTX 请先导出为 PDF；没有译文也可以开始阅读和记录。
 4. 需要 AI 时，安装并登录 **[Codex CLI](https://developers.openai.com/codex/cli/)**，再到笔记桥的“Codex 连接设置”检测连接并选择可用模型。使用自己的账号；已有 CLI 登录可继续使用。
 5. 用完后选择文件菜单或系统托盘中的 **“保存并退出”**，等待各标签页完成保存。
