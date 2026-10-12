@@ -1,0 +1,17 @@
+# Public product documentation and approved artwork only. Upload executables as Release assets.
+*
+!/docs/
+!/assets/
+!/.gitignore
+!/public-manifest.json
+!/README.md
+!/docs/GETTING_STARTED.md
+!/docs/RELEASE_VALIDATION.md
+!/CHANGELOG.md
+!/LICENSE
+!/NOTICE
+!/THIRD-PARTY-NOTICES.md
+!/SECURITY.md
+!/assets/studybridge-hero.png
+!/assets/library-preview.png
+!/assets/reader-preview.png

@@ -1,0 +1,64 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "size": 6581,
+      "sha256": "23a4b021ad95b11ec9c0dfcda2e14d71a19c76dd428ee881b4d0c8f3675eb957"
+    },
+    {
+      "path": "docs/GETTING_STARTED.md",
+      "size": 9111,
+      "sha256": "d4bdc05ed4717cf3b3734ec8b0ca55faf98bfa7256cf8971df38deefca674a02"
+    },
+    {
+      "path": "docs/RELEASE_VALIDATION.md",
+      "size": 4507,
+      "sha256": "36ce465fe6eccca39259e1cced3353f9dfb9e6eb73607890512675f685c2334e"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size": 2346,
+      "sha256": "12f868af413bc752bc5326db01526aa779878e54368354f7a8f801b8438cff9a"
+    },
+    {
+      "path": "LICENSE",
+      "size": 2483,
+      "sha256": "cd98824dc4ad3138afb79800a9d0e0b9a8525f5a07753354977581b483273601"
+    },
+    {
+      "path": "NOTICE",
+      "size": 514,
+      "sha256": "eaf8435d94a0efdfb89e710ba39853b243720b73074e92d0672f7ebdcdc4a839"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "size": 1226,
+      "sha256": "bd71443e9d7a85a9d0d855bd5b01d1d11fe120f6b8d7cd55509add3bef7d7451"
+    },
+    {
+      "path": "SECURITY.md",
+      "size": 1570,
+      "sha256": "20561f36aeb9b80126c249be8baefce997673a8e31cdaf4901eda21a349719c9"
+    },
+    {
+      "path": "assets/studybridge-hero.png",
+      "size": 1732753,
+      "sha256": "b7da3a306c3448cfeaeedcf27ea54b3e502278e967092fd91b57f5b34862239c"
+    },
+    {
+      "path": "assets/library-preview.png",
+      "size": 102919,
+      "sha256": "ed24b32ba2a8cc023cf33478ef3479b3cecb5106f3856f570a1816f5325a573d"
+    },
+    {
+      "path": "assets/reader-preview.png",
+      "size": 149298,
+      "sha256": "7da8ed51958d0328e61ad87ed3dc99159788faaa1c105d4687578ec2f1a67b87"
+    },
+    {
+      "path": ".gitignore",
+      "size": 379,
+      "sha256": "09b4bac982f1cf44032f85d5e50dad43723c33a4bec451c749ee48e95446a400"
+    }
+  ]
+}
