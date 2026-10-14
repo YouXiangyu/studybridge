@@ -16,7 +16,7 @@ Read source and translated PDFs, keep notes with sandboxed HTML demos, and ask C
 
 **[下载笔记桥](https://github.com/YouXiangyu/studybridge/releases/latest) · [使用教程](https://github.com/YouXiangyu/studybridge/blob/main/docs/GETTING_STARTED.md) · [问题反馈](https://github.com/YouXiangyu/studybridge/issues)**
 
-本文介绍 v0.3.1，应用、系统托盘与浏览器使用统一图标；功能与验证范围以对应版本说明为准。
+本文介绍 v0.3.2，新增模型刷新与 AI 连接重启，默认使用单独安装的 Codex CLI；功能与验证范围以对应版本说明为准。
 
 ## 六件日常学习的小事
 
@@ -48,10 +48,12 @@ Read source and translated PDFs, keep notes with sandboxed HTML demos, and ask C
 1. 安装 **[Node.js 22 或更新版本](https://nodejs.org/en/download)**，在新终端运行 `node --version` 确认安装成功。
 2. 从 **[最新版本](https://github.com/YouXiangyu/studybridge/releases/latest)** 下载 `StudyBridge.exe`，放到长期保存的位置并双击。首次运行选择或新建工作区，浏览器会打开资料库。
 3. 点击“添加课件”，导入原文 PDF/PPTX 和可选译文。也可点击“AI 扫描 / 任务”，默认递归扫描工作区上级目录，或选当前工作区；先核对显示的实际路径，再扫描与审核配对。没有译文仍可开始阅读。
-4. 需要 AI 时，安装并登录 **[Codex CLI](https://developers.openai.com/codex/cli/)**，检测连接并选择账号可用模型。所有 AI 操作共用设置，默认 `gpt-6.1-sol` / `medium`；模型不可用时会提示另选，不自动换模型。
+4. 需要 AI 时，使用单独安装并登录的 **[Codex CLI](https://developers.openai.com/codex/cli/)**；已经安装时无需重装。笔记桥自动发现该命令行版本，排除桌面应用内部的 CLI。打开连接设置，点击“刷新模型”，从当前 CLI 返回的目录中选择模型。所有 AI 操作共用设置，默认 `gpt-6.1-sol` / `medium`；目录中没有所选模型时必须手动另选，不自动换模型。
 5. 用完后选择文件菜单或系统托盘中的 **“保存并退出”**，等待各标签页完成保存。
 
 EXE 是使用本机依赖的轻量启动程序，**不捆绑 Node、Codex 或浏览器**，也不需要 Python。首次启动会释放阅读器资源，以后复用缓存；阅读、圈画和笔记不需要 Codex。文档检查与渲染需要已安装的 Edge；PPTX 转换仅使用已安装的 Microsoft PowerPoint。若 PowerPoint 已运行，请自行保存并关闭后重试转换。旧 `.ppt` 请手动导出为 PDF。最终体积以同一 Release 的 `build-info.json` 为准。
+
+连接异常时，界面显示具体错误原因；可先“刷新模型”，必要时“重启 AI 连接”。重启仅重建笔记桥自己的 Codex 连接，保留笔记、问答记录和设置；有问答或课件任务正在进行时会拒绝重启，请先完成或取消任务。
 
 安装与日常操作的完整说明见 [初始化与使用教程](https://github.com/YouXiangyu/studybridge/blob/main/docs/GETTING_STARTED.md)。下载后可核对同一 Release 提供的 SHA-256；当前版本尚未代码签名。
 
