@@ -2,23 +2,23 @@
   "files": [
     {
       "path": "README.md",
-      "size": 11700,
-      "sha256": "9caaa8eae28b19a7f728b4573a73c64e30e71897fc7347547d67fee9e3ca0408"
+      "size": 12600,
+      "sha256": "4fb50ddfdbf68920d79d22be8de0d29bedc351cec56406ff2b8b4c84b571af34"
     },
     {
       "path": "docs/GETTING_STARTED.md",
-      "size": 19756,
-      "sha256": "f0ff8f4ade7bbf3b76dd1104319e81c8c80a1c4a665bc587dc97575917e276c1"
+      "size": 21592,
+      "sha256": "d776694f139864131065e134240bbd4cc257524147191dcf02e6569fdee33930"
     },
     {
       "path": "docs/RELEASE_VALIDATION.md",
-      "size": 14018,
-      "sha256": "e115af81b6ff38cfcfc37ae03db5157b561f05a7b56e294dc9fcb5d9dc58dc77"
+      "size": 17183,
+      "sha256": "e12ad834a2b0d9dffbb709425708e6911749d3706b82220404142d4dcc6e73e7"
     },
     {
       "path": "CHANGELOG.md",
-      "size": 8512,
-      "sha256": "f7edff1ff4413c24dedb11a437b8fa4863883206bc27b6b45b8152bb963f435d"
+      "size": 9716,
+      "sha256": "fddacd8b62905662f21bf4bcf865ed135a94be1e1774e02eb37e394d95c5410d"
     },
     {
       "path": "LICENSE",
@@ -37,8 +37,8 @@
     },
     {
       "path": "SECURITY.md",
-      "size": 5933,
-      "sha256": "7b6cb8b313ce1b6b60d77b53ef8fb4fcaf6097d6407c6281d756846b8a711e9c"
+      "size": 5957,
+      "sha256": "8571e0b41050d7ac9748e71c2988fa955e1af5d4613413b612342ec71a1b2402"
     },
     {
       "path": "assets/studybridge-hero.png",
